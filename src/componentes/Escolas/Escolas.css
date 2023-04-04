@@ -1,0 +1,14 @@
+.escola {
+  padding: 2rem 0;
+  position: relative;
+  text-align: center;
+}
+
+.titulo {
+  display: inline;
+  justify-content: center;
+  font-size: 2rem;
+  font-family: serif;
+  border-bottom: 2px solid;
+  padding: 0 0 4px;
+}
