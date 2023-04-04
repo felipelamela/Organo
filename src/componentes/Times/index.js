@@ -13,6 +13,7 @@ const Times = (props) => {
         required={props.obrigatorio}
         className="container__input"
       >
+        <option value=""></option>
         {props.itens.map((item) => (
           <option key={item}>{item}</option>
         ))}
