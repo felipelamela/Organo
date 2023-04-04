@@ -1,0 +1,41 @@
+.container__card {
+  display: inline-block;
+  background: white;
+  width: 260px;
+  border-radius: 20px;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.05);
+  margin: 2rem 0;
+}
+
+.container__superior {
+  background: #57C278;
+  position: relative;
+  height: 60px;
+  border-radius: 20px 20px 0 0;
+
+}
+
+.container__superior img {
+  width: 80px;
+  border-radius: 50%;
+  position: absolute;
+  top: 30px;
+  left: 90px;
+
+}
+
+.container__inferior {
+  margin: 4rem 0 1.3rem 0;
+}
+
+.container__inferior h4 {
+  color: #6278F7;
+  margin: 0;
+  padding: 0 0 .3rem 0;
+}
+
+.container__inferior h5 {
+  font-weight: 100;
+  margin: 0;
+  padding: 0;
+}

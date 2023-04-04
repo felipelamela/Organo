@@ -11,4 +11,13 @@
   font-family: serif;
   border-bottom: 2px solid;
   padding: 0 0 4px;
+
+}
+
+.card__container {
+  justify-content: center;
+  gap: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+
 }
